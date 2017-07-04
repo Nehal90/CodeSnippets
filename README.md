@@ -1,5 +1,5 @@
 # CodeSnippets
-This project helps me to keep track of all my Plunker code snippets.
+I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
 - [checkbox make click unresponsive](https://plnkr.co/edit/vEwFi4m8KRcPqnf3ROSM?p=preview)
 - [component interaction passing data via Input](https://plnkr.co/edit/4dWdQ1yysolJoyDak26v?p=preview)
