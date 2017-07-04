@@ -111,6 +111,8 @@ This project helps me to keep track of all my Plunker code snippets.
 ---
 ### Material 1 md-slide-toggle
 
-- [Pul slider to the right of text for relase before 1.1.12](https://codepen.io/nehal90/pen/pwabyj)
+- [Pull slider to the right of text for relase before 1.1.12](https://codepen.io/nehal90/pen/pwabyj)
 
-* Code snippet colloected from Stack Overflow Users
+---
+
+** Collected snippet are provided by Stack Overflow Users
