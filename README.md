@@ -39,14 +39,15 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-datepicker binding date value](https://plnkr.co/edit/ucGODHnqlaRi7IgoJNmt?p=preview)
 - [md-datepicker change position of picker dialog box](https://plnkr.co/edit/pa7BHs?p=info)
-- [md-datepicker open dialon on focus or select - disable keyborad input](https://plnkr.co/edit/sE8hFm7QL2OmfuSQ57yw?p=info)
+- [md-datepicker open dialon on focus or select by using reference - disable keyborad input](https://plnkr.co/edit/sE8hFm7QL2OmfuSQ57yw?p=info)
 - [md-datepicker passing selected date to function using $event](https://plnkr.co/edit/05yGj6Zbt4OYIfD3DcON?p=info)
 
 
 ---
 ### md-dialog
 
-- [md-dialog passing data to it](https://plnkr.co/edit/a9RBS1?p=info)
+- [md-dialog passing data to dialog from component](https://plnkr.co/edit/a9RBS1?p=info)
+- [md-dialog passing data to component unconventional way](https://plnkr.co/edit/XsQaUtcliGQpm928iDrw?p=preview) - Collected
 
 ---
 ### md-input
@@ -58,6 +59,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-input set ngClass based on input length](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
 - [md-input set ngClass based on input length](https://plnkr.co/edit/Rj3yDy7nnagO2S4lJFiq?p=info) - Collected 
 - [md-input set divider color](https://plnkr.co/edit/YXBeEXrJsZdLMiRm9FYM?p=preview)
+- [md-input show input on button click](https://plnkr.co/edit/ULjeKzSqCpftPSiRIaJH?p=preview)
 - [md-input using ngModelChange](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
 
 ---
@@ -94,6 +96,14 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
+- [md-tabs using full width veritcal align text icons](https://plnkr.co/edit/9gMN8jrpVwItULmafGGn?p=info)
+
+### md-tooltip
+
+- [md-tooltip always show tooltip](https://plnkr.co/edit/JP0mCkCCAdbayf7B7cT9?p=info)
+- [md-tooltip disable tooltip for xs screen size using flex-layout](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
+
+### Others 
 
 - [media change and play video by clicking images](https://plnkr.co/edit/brVk1VRsKQRD4NXPfBRl?p=info)
 - [multiselect data binding](https://plnkr.co/edit/rzP1J0nPxh8yZ3DwfE38?p=preview)
@@ -110,7 +120,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 ---
 ### Material 1 md-slide-toggle
-
+- [mdButton remove hover animation color](https://codepen.io/nehal90/pen/bRjzgE)
 - [Pull slider to the right of text for relase before 1.1.12](https://codepen.io/nehal90/pen/pwabyj)
 
 ---
