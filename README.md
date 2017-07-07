@@ -57,7 +57,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-input required error validation marker](https://plnkr.co/edit/KCuvFH2iE4J70dWCyS6S?p=preview)
 - [md-input set ngClass based on input length](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
 - [md-input set ngClass based on input length](https://plnkr.co/edit/Rj3yDy7nnagO2S4lJFiq?p=info) - Collected 
-- [md-input set divider color](https://plnkr.co/edit/YXBeEXrJsZdLMiRm9FYM?p=preview)\
+- [md-input set divider color](https://plnkr.co/edit/YXBeEXrJsZdLMiRm9FYM?p=preview)
 - [md-input using ngModelChange](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
 
 ---
