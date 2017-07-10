@@ -9,14 +9,18 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [http service retrieve data from API](https://plnkr.co/edit/malbXKcARC6yImn9irl8?p=preview)
 - [http service show header information](https://plnkr.co/edit/MMly1tMo2ZOI2cIWqnit?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
+- [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
+- [Track hidding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
 
 ---
 ### md-autocomplete
 
 - [md-autocomplete inside reactive form](https://plnkr.co/edit/Hle6PV?p=preview)
 - [md-autocomplete reduce each option row height](https://plnkr.co/edit/AX3kuK6HekrocFujors7?p=info)
+- [md-autocomplete separate control and display](https://plnkr.co/edit/5wrr1YGxBzAFPj0sJgzT?p=info)
 - [md-autocomplete set searchable data from API](https://plnkr.co/edit/aa2NNOHdKhB7n8iJcQbT?p=preview)
+- [md-autocomplete using same instance for multiple forms](https://plnkr.co/edit/PHJkJpkgOXLTEWpDI3eX?p=info)
 - [md-autocomplete using simple filter](https://plnkr.co/edit/gdbRkqlYP9vLHXMb8bUx?p=info) - Collected 
 
 ---
@@ -32,6 +36,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ### md-checkbox
 
+- [md-checkbox apply ngClass on select](https://plnkr.co/edit/PCO52ReqnYsoWaHzKNA5?p=preview)
+- [md-checkbox track select and deselect](https://plnkr.co/edit/kJiiYx2IubT7SMTqKBqZ?p=preview)
 - [md-checkbox with indentation and live search](https://plnkr.co/edit/xnJjeM?p=info)
 
 ---
@@ -66,6 +72,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-menu
 
 - [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
+- [md-menu customize prebuild theme css](https://plnkr.co/edit/s91qeAlg3F3eexeFsjyK?p=preview)
 - [md-menu trigger menu open via code](https://plnkr.co/edit/2RsFsWINTJZncAeyfBXu?p=preview)
 
 ---
@@ -84,7 +91,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-sidenav
 
 - [md-sidenav change backdrop color](https://plnkr.co/edit/sCSNQj?p=info)
-- [md sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
+- [md-sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
+- [md-sidenav work with md-menu](https://plnkr.co/edit/5enrfZHqxGaExhEEk3Fh?p=preview)
 
 ---
 ### md-slider-toggle
@@ -96,6 +104,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
+- [md-tabs hide when array length < 1](https://plnkr.co/edit/mBNtjokqAfw2tHzUtRb3?p=preview)
 - [md-tabs using full width veritcal align text icons](https://plnkr.co/edit/9gMN8jrpVwItULmafGGn?p=info)
 
 ### md-tooltip
