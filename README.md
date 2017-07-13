@@ -1,7 +1,10 @@
 # CodeSnippets
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
+- [@Output Emitting value from one component to another](https://plnkr.co/edit/0uinqdl3FlK7TrBGC9Ob?p=info)
+- [checkbox add remove from array on select deselect share array via service](https://plnkr.co/edit/Iib3XZeu27AqUFBFzRhW?p=info)
 - [checkbox make click unresponsive](https://plnkr.co/edit/vEwFi4m8KRcPqnf3ROSM?p=preview)
+- [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
 - [component interaction passing data via Input](https://plnkr.co/edit/4dWdQ1yysolJoyDak26v?p=preview)
 - [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
 - [flex-layout detech screen size change](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
@@ -11,6 +14,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
 - [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
+- [ngFor track if previous object matches current object](https://plnkr.co/edit/BvJyP3eExBw7rCB3UBCm?p=info)
+- [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
 - [Track hidding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
 
 ---
@@ -59,6 +64,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-input
 
 - [md-input adding/removing .00 for whole numbers](https://plnkr.co/edit/mrEcN7?p=preview)
+- [md-input allow negative only at index 0 for numbers](https://plnkr.co/edit/mdNCuvm55YuLj847gveD?p=info)
 - [md-input custom placeholder that hides on focus](https://plnkr.co/edit/8ZtMgM2WFiYTXHE91B0Q?p=preview)
 - [md-input position md-icon to the left](https://plnkr.co/edit/ZWQ2XvVbF1TTxClE9W1o?p=info)
 - [md-input required error validation marker](https://plnkr.co/edit/KCuvFH2iE4J70dWCyS6S?p=preview)
