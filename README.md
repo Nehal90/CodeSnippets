@@ -15,13 +15,16 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
 - [ngFor track if previous object matches current object](https://plnkr.co/edit/BvJyP3eExBw7rCB3UBCm?p=info)
+- [radio selection binded to object value in reactive form](https://plnkr.co/edit/IdOAU9?p=info)
 - [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
+- [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
 - [Track hidding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
 
 ---
 ### md-autocomplete
 
 - [md-autocomplete inside reactive form](https://plnkr.co/edit/Hle6PV?p=preview)
+- [md-autocomplete bootstrap styled input field](https://plnkr.co/edit/wTmnP0kZmtibsEbrtfq0?p=info)
 - [md-autocomplete reduce each option row height](https://plnkr.co/edit/AX3kuK6HekrocFujors7?p=info)
 - [md-autocomplete separate control and display](https://plnkr.co/edit/5wrr1YGxBzAFPj0sJgzT?p=info)
 - [md-autocomplete set searchable data from API](https://plnkr.co/edit/aa2NNOHdKhB7n8iJcQbT?p=preview)
@@ -111,6 +114,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
 - [md-tabs hide when array length < 1](https://plnkr.co/edit/mBNtjokqAfw2tHzUtRb3?p=preview)
+- [md-tabs scrollable tab-content area with fixed tab label](https://plnkr.co/edit/e3QAYZMa92zbmDcALN3v?p=info)
 - [md-tabs using full width veritcal align text icons](https://plnkr.co/edit/9gMN8jrpVwItULmafGGn?p=info)
 
 ### md-tooltip
@@ -129,9 +133,6 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### RegExp
 - [reg exp allow only 7 alphabets](https://plnkr.co/edit/xVgRba4nNCWZxfnSuRPa?p=preview)
 - [reg exp validate number for 3 digit and 3 decimal](https://plnkr.co/edit/dQ8uWz3HRqpzGpacQAnZ?p=preview)
-
----
-- [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
 
 ---
 ### Material 1 md-slide-toggle
