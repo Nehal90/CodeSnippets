@@ -6,6 +6,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [checkbox make click unresponsive](https://plnkr.co/edit/vEwFi4m8KRcPqnf3ROSM?p=preview)
 - [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
 - [component interaction passing data via Input](https://plnkr.co/edit/4dWdQ1yysolJoyDak26v?p=preview)
+- [Custom Directive to only allow negative only at index 0 for number](https://plnkr.co/edit/ygncbydEqWKbdx4tFg0l?p=info)
 - [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
 - [flex-layout detech screen size change](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
 - [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
@@ -13,11 +14,14 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [http service show header information](https://plnkr.co/edit/MMly1tMo2ZOI2cIWqnit?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
 - [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
+- [input validation with ng-valid ng-pristine to show error only when typing for minlength 8](https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
 - [ngFor track if previous object matches current object](https://plnkr.co/edit/BvJyP3eExBw7rCB3UBCm?p=info)
 - [radio selection binded to object value in reactive form](https://plnkr.co/edit/IdOAU9?p=info)
 - [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
+- [select option return object based on selection](https://plnkr.co/edit/IjpMjN?p=info)
 - [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
+- [scroll using keyup keydown and select on pressing enter for select option](https://plnkr.co/edit/6INJnv?p=info)
 - [Track hidding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
 
 ---
@@ -124,6 +128,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 ### Others 
 
+- [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [media change and play video by clicking images](https://plnkr.co/edit/brVk1VRsKQRD4NXPfBRl?p=info)
 - [multiselect data binding](https://plnkr.co/edit/rzP1J0nPxh8yZ3DwfE38?p=preview)
 - [ngClass toggle fontawesome icon in selected row](https://plnkr.co/edit/JynCa6TSMU4co47bsWf1?p=preview)
