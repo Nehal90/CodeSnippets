@@ -144,11 +144,13 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-tabs scrollable tab-content area with fixed tab label](https://plnkr.co/edit/e3QAYZMa92zbmDcALN3v?p=info)
 - [md-tabs using full width veritcal align text icons](https://plnkr.co/edit/9gMN8jrpVwItULmafGGn?p=info)
 
+---
 ### md-tooltip
 
 - [md-tooltip always show tooltip](https://plnkr.co/edit/JP0mCkCCAdbayf7B7cT9?p=info)
 - [md-tooltip disable tooltip for xs screen size using flex-layout](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
 
+---
 ### Others 
 
 - [media change and play video by clicking images](https://plnkr.co/edit/brVk1VRsKQRD4NXPfBRl?p=info)
