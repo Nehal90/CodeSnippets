@@ -1,28 +1,50 @@
 # CodeSnippets
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
-- [@Output Emitting value from one component to another](https://plnkr.co/edit/0uinqdl3FlK7TrBGC9Ob?p=info)
-- [checkbox add remove from array on select deselect share array via service](https://plnkr.co/edit/Iib3XZeu27AqUFBFzRhW?p=info)
-- [checkbox make click unresponsive](https://plnkr.co/edit/vEwFi4m8KRcPqnf3ROSM?p=preview)
-- [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
-- [component interaction passing data via Input](https://plnkr.co/edit/4dWdQ1yysolJoyDak26v?p=preview)
-- [Custom Directive to only allow negative only at index 0 for number](https://plnkr.co/edit/ygncbydEqWKbdx4tFg0l?p=info)
-- [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
 - [flex-layout detech screen size change](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
-- [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
-- [http service retrieve data from API](https://plnkr.co/edit/malbXKcARC6yImn9irl8?p=preview)
-- [http service show header information](https://plnkr.co/edit/MMly1tMo2ZOI2cIWqnit?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
-- [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
-- [input validation with ng-valid ng-pristine to show error only when typing for minlength 8](https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=info)
+(https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
+- [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
+- [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
+
+---
+## Angular 2 Data Binding:
+- [checkbox add remove from array on select deselect share array via service](https://plnkr.co/edit/Iib3XZeu27AqUFBFzRhW?p=info)
+- [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
+- [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
 - [ngFor track if previous object matches current object](https://plnkr.co/edit/BvJyP3eExBw7rCB3UBCm?p=info)
 - [radio selection binded to object value in reactive form](https://plnkr.co/edit/IdOAU9?p=info)
-- [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
 - [select option return object based on selection](https://plnkr.co/edit/IjpMjN?p=info)
-- [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
 - [scroll using keyup keydown and select on pressing enter for select option](https://plnkr.co/edit/6INJnv?p=info)
-- [Track hidding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
+- [Track hiding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
+
+---
+## Angular 2 Data Share:
+- [@Output Emitting value from one component to another](https://plnkr.co/edit/0uinqdl3FlK7TrBGC9Ob?p=info)
+- [component interaction passing data via Input](https://plnkr.co/edit/4dWdQ1yysolJoyDak26v?p=preview)
+- [display five forms data in a summary page via shared service](https://plnkr.co/edit/FWoNtfE4ic3Hi6RdCMsc?p=info)
+- [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
+- [parent-child data share via binding and service](https://plnkr.co/edit/RwNbVAuYpg90Wyazutei?p=info)
+- [Rxjs Subject and Observable to share data with child component](https://plnkr.co/edit/JncNuE63jwQsYgImK2ba?p=info)
+
+---
+## Angular 2 HTTP Service:
+- [http service retrieve data from API](https://plnkr.co/edit/malbXKcARC6yImn9irl8?p=preview)
+- [http service show header information](https://plnkr.co/edit/MMly1tMo2ZOI2cIWqnit?p=preview)
+
+---
+## Angular 2 Input Validation:
+- [checkbox make click unresponsive](https://plnkr.co/edit/vEwFi4m8KRcPqnf3ROSM?p=preview)
+- [Custom Directive to allow letters A-Z only](https://plnkr.co/edit/2bPMSxDgQNToetCn0nII?p=info)
+- [Custom Directive to only allow negative only at index 0 for number](https://plnkr.co/edit/ygncbydEqWKbdx4tFg0l?p=info)
+- [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
+- [input validation with ng-valid ng-pristine to show error only when typing for minlength 8]
+
+---
+### Angular Material 2
+- [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
+- [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
 
 ---
 ### md-autocomplete
@@ -116,6 +138,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-tabs
 
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
+- [md-tabs disable click on tab and move tab via buttons](https://plnkr.co/edit/spMcC1wwEkSXmS4xrFio?p=info) - Collected
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
 - [md-tabs hide when array length < 1](https://plnkr.co/edit/mBNtjokqAfw2tHzUtRb3?p=preview)
 - [md-tabs scrollable tab-content area with fixed tab label](https://plnkr.co/edit/e3QAYZMa92zbmDcALN3v?p=info)
@@ -128,7 +151,6 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 ### Others 
 
-- [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [media change and play video by clicking images](https://plnkr.co/edit/brVk1VRsKQRD4NXPfBRl?p=info)
 - [multiselect data binding](https://plnkr.co/edit/rzP1J0nPxh8yZ3DwfE38?p=preview)
 - [ngClass toggle fontawesome icon in selected row](https://plnkr.co/edit/JynCa6TSMU4co47bsWf1?p=preview)
