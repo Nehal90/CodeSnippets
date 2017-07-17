@@ -39,7 +39,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [Custom Directive to allow letters A-Z only](https://plnkr.co/edit/2bPMSxDgQNToetCn0nII?p=info)
 - [Custom Directive to only allow negative only at index 0 for number](https://plnkr.co/edit/ygncbydEqWKbdx4tFg0l?p=info)
 - [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
-- [input validation with ng-valid ng-pristine to show error only when typing for minlength 8]
+- [input validation with ng-valid ng-pristine to show error only when typing for minlength 8](https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=preview)
 
 ---
 ### Angular Material 2
