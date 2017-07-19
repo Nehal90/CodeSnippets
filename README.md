@@ -56,6 +56,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [input validation with ng-valid ng-pristine to show error only when typing for minlength 8](https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=preview)
 - [select option with confirmation revert to previous value on discard](https://plnkr.co/edit/xB92Mw?p=info)
 ---
+
 ### Angular Material 2
 
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
