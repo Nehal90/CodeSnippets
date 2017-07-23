@@ -5,7 +5,6 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [canDeactive setup](https://plnkr.co/edit/UV69Fb1Yeco7bk6bwKaz?p=info)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
-(https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
 - [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
 - [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
@@ -31,7 +30,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
 - [parent-child data share via binding and service](https://plnkr.co/edit/RwNbVAuYpg90Wyazutei?p=info)
 - [Rxjs Subject and Observable to share data with child component](https://plnkr.co/edit/JncNuE63jwQsYgImK2ba?p=info)
-- [Shred service between components](https://plnkr.co/edit/7xF6qVLXNT2pGrFz1Clf?p=info)
+- [Shared service between components](https://plnkr.co/edit/7xF6qVLXNT2pGrFz1Clf?p=info)
 
 ---
 ## Angular 2 Flex-layout:
