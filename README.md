@@ -4,6 +4,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [canDeactive setup](https://plnkr.co/edit/UV69Fb1Yeco7bk6bwKaz?p=info)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
+- [css line break after every two items for 100 items](https://plnkr.co/edit/tZisyfGx8h5St173RJGi?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
 - [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
@@ -12,11 +13,14 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ## Angular 2 Data Binding:
 
+- [canDeactivate setup](https://plnkr.co/edit/UV69Fb1Yeco7bk6bwKaz?p=info)
 - [checkbox add remove from array on select deselect share array via service](https://plnkr.co/edit/Iib3XZeu27AqUFBFzRhW?p=info)
 - [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
 - [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
+- [delete object from array by id](https://plnkr.co/edit/BJOv5m1Z19jUZcR1kga8?p=preview)
 - [ngFor track if previous object matches current object](https://plnkr.co/edit/BvJyP3eExBw7rCB3UBCm?p=info)
 - [radio selection binded to object value in reactive form](https://plnkr.co/edit/IdOAU9?p=info)
+- [select option filter data based on option selected](https://plnkr.co/edit/seDeBYZ1TlATAzI20yfz?p=preview)
 - [select option return object based on selection](https://plnkr.co/edit/IjpMjN?p=info)
 - [scroll using keyup keydown and select on pressing enter for select option](https://plnkr.co/edit/6INJnv?p=info)
 - [Track hiding divs, show last hidden div when back button clicked](https://plnkr.co/edit/ovPPIzIpHD6eGnumKEKH?p=info)
@@ -29,6 +33,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [display five forms data in a summary page via shared service](https://plnkr.co/edit/FWoNtfE4ic3Hi6RdCMsc?p=info)
 - [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
 - [parent-child data share via binding and service](https://plnkr.co/edit/RwNbVAuYpg90Wyazutei?p=info)
+- [parent-child data share via Promise](https://plnkr.co/edit/vocFx7eoxtE10AvgiwLG?p=preview)
 - [Rxjs Subject and Observable to share data with child component](https://plnkr.co/edit/JncNuE63jwQsYgImK2ba?p=info)
 - [Shared service between components](https://plnkr.co/edit/7xF6qVLXNT2pGrFz1Clf?p=info)
 
@@ -81,7 +86,9 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ### md-card
 
+- [md-card center horizontally and vertically in a page](https://plnkr.co/edit/29wR6WqS0L9Dkv4BKF7Y?p=info)
 - [md-card hover animation](https://plnkr.co/edit/7hgx0aoAIntWTSQhsyqI?p=preview)
+- [md-card show grouped items in separate cards](https://plnkr.co/edit/RYMFQCmf7kZiPEn8W2hH?p=info)
 
 ---
 ### md-checkbox
@@ -94,6 +101,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-chip
 
 - [md-chip with close icon](https://plnkr.co/edit/3ETqil1nCNc0iorge5El?p=info)
+- [md-chip with md-input](https://plnkr.co/edit/XHklxDzJHI1Bgre5UCBW?p=preview)
 
 ---
 ### md-datepicker
@@ -147,8 +155,10 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-select
 
 - [md-select multiselect](https://plnkr.co/edit/8HuIDnlFHTHe56HC4jby?p=preview)
+- [md-select md-radio revalidate form on option change](https://plnkr.co/edit/wsYASLW3nWaN3jknUTtk?p=preview)
 - [md-select no underline](https://plnkr.co/edit/B4HmhT?p=preview)
 - [md-select reset form to invalid on selection change](https://plnkr.co/edit/wsYASLW3nWaN3jknUTtk?p=info)
+- [md-select set default value](https://plnkr.co/edit/rniE7BSRKDwEceatQffZ?p=preview)
 
 ---
 ### md-sidenav
@@ -163,6 +173,11 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-slider-toggle change after user confirmation](https://plnkr.co/edit/8oehVZ?p=preview)
 
 ---
+## md-snackbar
+
+- [md-snackbar working example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=preview)
+
+---
 ## md-table
 
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
@@ -171,7 +186,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-tabs
 
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
-- [md-tabs disable click on tab and move tab via buttons](https://plnkr.co/edit/spMcC1wwEkSXmS4xrFio?p=info) - Collected
+- [md-tabs disable click on tab and move tabs via buttons](https://plnkr.co/edit/spMcC1wwEkSXmS4xrFio?p=info) - Collected
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
 - [md-tabs hide when array length < 1](https://plnkr.co/edit/mBNtjokqAfw2tHzUtRb3?p=preview)
 - [md-tabs scrollable tab-content area with fixed tab label](https://plnkr.co/edit/e3QAYZMa92zbmDcALN3v?p=info)
@@ -182,6 +197,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-tooltip always show tooltip](https://plnkr.co/edit/JP0mCkCCAdbayf7B7cT9?p=info)
 - [md-tooltip disable tooltip for xs screen size using flex-layout](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
+- [md-tooltip fit multiple lines withing](https://plnkr.co/edit/BSOnK9TcbouRyq3TKD23?p=preview)
 
 ---
 ### Others 
@@ -204,5 +220,10 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [Pull slider to the right of text for relase before 1.1.12](https://codepen.io/nehal90/pen/pwabyj)
 
 ---
+## PrimeNG
+
+- [primeng blank template](https://plnkr.co/edit/wMuDH9f8l0h7Pw65kg3H?p=info)
+- [p-calenar formControl validation for user input date](https://plnkr.co/edit/DcMUCWQ9u4a3yekrNbO9)
+- [p-calendar date range from control validation](https://plnkr.co/edit/X0cmeJjqd80J0fGrXFTR?p=info)
 
 ** Collected snippet are provided by Stack Overflow Users
