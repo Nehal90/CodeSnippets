@@ -2,7 +2,6 @@
 
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
-- [canDeactive setup](https://plnkr.co/edit/UV69Fb1Yeco7bk6bwKaz?p=info)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
 - [css line break after every two items for 100 items](https://plnkr.co/edit/tZisyfGx8h5St173RJGi?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
