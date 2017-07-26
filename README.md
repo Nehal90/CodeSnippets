@@ -42,6 +42,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [flex-layout detech screen size change](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
 - [flex-layout set div width to 90% with 5% margin for xs](https://plnkr.co/edit/2ZnnzJcYsAhUZU1EAmS4?p=info)
 - [flex-layout set div width to 90% for xs](https://plnkr.co/edit/73gkNuqtgNBsPKaTDjIc?p=preview)
+- [flex-layout template example with material2](https://plnkr.co/edit/a4iASMaZqQZNmuuQUapb?p=preview)
 
 ---
 ## Angular 2 HTTP Service:
@@ -60,7 +61,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [select option with confirmation revert to previous value on discard](https://plnkr.co/edit/xB92Mw?p=info)
 ---
 
-### Angular Material 2
+## Angular Material 2
 
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
@@ -95,6 +96,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-checkbox apply ngClass on select](https://plnkr.co/edit/PCO52ReqnYsoWaHzKNA5?p=preview)
 - [md-checkbox track select and deselect](https://plnkr.co/edit/kJiiYx2IubT7SMTqKBqZ?p=preview)
 - [md-checkbox with indentation and live search](https://plnkr.co/edit/xnJjeM?p=info)
+- [md-checkbox disable checkboxes for 3s after click](https://plnkr.co/edit/eNTbomitCaKZ02sMPp8Z)
 
 ---
 ### md-chip
@@ -129,6 +131,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-input adding/removing .00 for whole numbers](https://plnkr.co/edit/mrEcN7?p=preview)
 - [md-input allow negative only at index 0 for numbers](https://plnkr.co/edit/mdNCuvm55YuLj847gveD?p=info)
 - [md-input custom placeholder that hides on focus](https://plnkr.co/edit/8ZtMgM2WFiYTXHE91B0Q?p=preview)
+- [md-input override class with ViewEncapsulation and :host](https://plnkr.co/edit/pzIIX6Ox4Wd9bTZUZTOM?p=info)
 - [md-input position md-icon to the left](https://plnkr.co/edit/ZWQ2XvVbF1TTxClE9W1o?p=info)
 - [md-input required error validation marker](https://plnkr.co/edit/KCuvFH2iE4J70dWCyS6S?p=preview)
 - [md-input set ngClass based on input length](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
@@ -143,6 +146,12 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
 - [md-menu customize prebuild theme css](https://plnkr.co/edit/s91qeAlg3F3eexeFsjyK?p=preview)
 - [md-menu trigger menu open via code](https://plnkr.co/edit/2RsFsWINTJZncAeyfBXu?p=preview)
+- [md-menu move panel to the right](https://plnkr.co/edit/jwt36RQiqnNMPl2lWScW?p=info)
+
+---
+## md-paginator
+
+- [md-paginator get prev or next click event using (page) output property](https://plnkr.co/edit/8van3R9RLJ1pJPIaWm28?p=info)
 
 ---
 ### md-radio
@@ -172,12 +181,12 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-slider-toggle change after user confirmation](https://plnkr.co/edit/8oehVZ?p=preview)
 
 ---
-## md-snackbar
+### md-snackbar
 
 - [md-snackbar working example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=preview)
 
 ---
-## md-table
+### md-table
 
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
 
@@ -189,6 +198,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
 - [md-tabs hide when array length < 1](https://plnkr.co/edit/mBNtjokqAfw2tHzUtRb3?p=preview)
 - [md-tabs scrollable tab-content area with fixed tab label](https://plnkr.co/edit/e3QAYZMa92zbmDcALN3v?p=info)
+- [md-tabs set default tab using selectedIndex](https://plnkr.co/edit/O48JYzScpaH9bfT75DFv?p=info)
 - [md-tabs using full width veritcal align text icons](https://plnkr.co/edit/9gMN8jrpVwItULmafGGn?p=info)
 
 ---
@@ -213,7 +223,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [reg exp validate number for 3 digit and 3 decimal](https://plnkr.co/edit/dQ8uWz3HRqpzGpacQAnZ?p=preview)
 
 ---
-### Material 1 md-slide-toggle
+## Material 1 md-slide-toggle
 
 - [mdButton remove hover animation color](https://codepen.io/nehal90/pen/bRjzgE)
 - [Pull slider to the right of text for relase before 1.1.12](https://codepen.io/nehal90/pen/pwabyj)
@@ -224,5 +234,6 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [primeng blank template](https://plnkr.co/edit/wMuDH9f8l0h7Pw65kg3H?p=info)
 - [p-calenar formControl validation for user input date](https://plnkr.co/edit/DcMUCWQ9u4a3yekrNbO9)
 - [p-calendar date range from control validation](https://plnkr.co/edit/X0cmeJjqd80J0fGrXFTR?p=info)
+- [p-multiSelect example](https://plnkr.co/edit/JIc2EkDz9HgymGQElHZ1?p=preview)
 
 ** Collected snippet are provided by Stack Overflow Users
