@@ -2,6 +2,7 @@
 
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
+- [accordion manually coded using ngIf](https://plnkr.co/edit/m4dTsI3EmHuijPKPNfDz?p=preview)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
 - [css line break after every two items for 100 items](https://plnkr.co/edit/tZisyfGx8h5St173RJGi?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
@@ -40,6 +41,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ## Angular 2 Flex-layout:
 
 - [flex-layout detech screen size change](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
+- [flex-layout make side by side div equal height](https://plnkr.co/edit/VH8ILGq7574m3SVsT84w?p=info)
 - [flex-layout set div width to 90% with 5% margin for xs](https://plnkr.co/edit/2ZnnzJcYsAhUZU1EAmS4?p=info)
 - [flex-layout set div width to 90% for xs](https://plnkr.co/edit/73gkNuqtgNBsPKaTDjIc?p=preview)
 - [flex-layout template example with material2](https://plnkr.co/edit/a4iASMaZqQZNmuuQUapb?p=preview)
@@ -63,6 +65,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 ## Angular Material 2
 
+- [material full template with flex-layout example](https://plnkr.co/edit/a4iASMaZqQZNmuuQUapb?p=info)
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
 
@@ -116,6 +119,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ### md-dialog
 
+- [md-daialog example from material2 demo app](https://plnkr.co/edit/gp7XX0NDQ4j1XMCjzWQV?p=info)
 - [md-dialog passing data to dialog from component](https://plnkr.co/edit/a9RBS1?p=info)
 - [md-dialog passing data to component unconventional way](https://plnkr.co/edit/XsQaUtcliGQpm928iDrw?p=preview) - Collected
 
@@ -124,6 +128,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-grid-list flex-layout change column number based on viewport size](https://plnkr.co/edit/1ocrQR6KofMglPwSgNOk?p=info)
 - [md-grid-list flex-layout change column number based on div size changes](https://plnkr.co/edit/p6c4yIg5Dt2weSHUHTEe?p=info)
+- [md-grid-tile change content alignment css](https://plnkr.co/edit/bSD3en761PHxYusGIg9j?p=info)
 
 ---
 ### md-input
@@ -145,11 +150,12 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
 - [md-menu customize prebuild theme css](https://plnkr.co/edit/s91qeAlg3F3eexeFsjyK?p=preview)
-- [md-menu trigger menu open via code](https://plnkr.co/edit/2RsFsWINTJZncAeyfBXu?p=preview)
 - [md-menu move panel to the right](https://plnkr.co/edit/jwt36RQiqnNMPl2lWScW?p=info)
+- [md-menu trigger menu open via code](https://plnkr.co/edit/2RsFsWINTJZncAeyfBXu?p=preview)
+- [md-menu using class property to change background color of menu](https://plnkr.co/edit/99buXlGj9PdhA3FsUCIx?p=info)
 
 ---
-## md-paginator
+### md-paginator
 
 - [md-paginator get prev or next click event using (page) output property](https://plnkr.co/edit/8van3R9RLJ1pJPIaWm28?p=info)
 
@@ -172,6 +178,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-sidenav
 
 - [md-sidenav change backdrop color](https://plnkr.co/edit/sCSNQj?p=info)
+- [md-sidenav get backdropClick event](https://plnkr.co/edit/NfXCLN?p=info)
+- [md-sidenav pass sidenav reference to a another component to control toggle](https://plnkr.co/edit/iuq5LBayQOcOtiu3Riqo?p=info)
 - [md-sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
 - [md-sidenav work with md-menu](https://plnkr.co/edit/5enrfZHqxGaExhEEk3Fh?p=preview)
 
@@ -179,6 +187,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-slider-toggle
 
 - [md-slider-toggle change after user confirmation](https://plnkr.co/edit/8oehVZ?p=preview)
+- [md-slider-toggle change default color of toggle](https://plnkr.co/edit/Wht9YWZ7lAGekJtGIShy?p=info)
+- [md-slide-toggle track toggle click and perform action on change](https://plnkr.co/edit/BmtWM6wb9oTuyszm4tXq?p=preview)
 
 ---
 ### md-snackbar
@@ -189,6 +199,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-table
 
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
+- [md-table pass data from promise return](https://plnkr.co/edit/ivvQqO5dXB92IXN8zOFv?p=preview)
+- [md-table pass data from API Stackoverflow doc example](https://plnkr.co/edit/gVN7D52iaRjAs1tIhvaA?p=preview)
 
 ---
 ### md-tabs
@@ -232,6 +244,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ## PrimeNG
 
 - [primeng blank template](https://plnkr.co/edit/wMuDH9f8l0h7Pw65kg3H?p=info)
+- [pButton with font-awesome](https://plnkr.co/edit/uXuMNeZyDOhSH5RIw5zH?p=preview)
 - [p-calenar formControl validation for user input date](https://plnkr.co/edit/DcMUCWQ9u4a3yekrNbO9)
 - [p-calendar date range from control validation](https://plnkr.co/edit/X0cmeJjqd80J0fGrXFTR?p=info)
 - [p-multiSelect example](https://plnkr.co/edit/JIc2EkDz9HgymGQElHZ1?p=preview)
