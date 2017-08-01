@@ -3,9 +3,11 @@
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
 - [accordion manually coded using ngIf](https://plnkr.co/edit/m4dTsI3EmHuijPKPNfDz?p=preview)
+- [cascading multiselect](https://plnkr.co/edit/RVpUxXCxohPbL4Bh3Zdp?p=info)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
 - [css line break after every two items for 100 items](https://plnkr.co/edit/tZisyfGx8h5St173RJGi?p=preview)
 - [innerHTML add template code via component](https://plnkr.co/edit/MFCcXqmOnj2oxPma6zPg?p=preview)
+- [select-option move scrollbar using keyup and keydown](https://plnkr.co/edit/WaF402?p=info)
 - [jqeury fade intial loading... page](https://plnkr.co/edit/PMGdYRGgGd16MnexxfbW?p=preview)
 - [resize window to remove empty gray area in IE Chrome](https://plnkr.co/edit/Uv0xrFap547BlQ3uvsry?p=info)
 - [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
@@ -113,8 +115,10 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-datepicker binding date value](https://plnkr.co/edit/ucGODHnqlaRi7IgoJNmt?p=preview)
 - [md-datepicker change toggle button icon](https://plnkr.co/edit/WnTDjphFCoBjsUT3dok7?p=info)
 - [md-datepicker change position of picker dialog box](https://plnkr.co/edit/pa7BHs?p=info)
+- [md-datepicker custom NativeDateAdapter for custom date format](https://plnkr.co/edit/varSfZA9XIF04tSLf2OV?p=info)
 - [md-datepicker open dialon on focus or select by using reference - disable keyborad input](https://plnkr.co/edit/sE8hFm7QL2OmfuSQ57yw?p=info)
 - [md-datepicker passing selected date to function using $event](https://plnkr.co/edit/05yGj6Zbt4OYIfD3DcON?p=info)
+- [md-datepicker set locale](https://plnkr.co/edit/tpwMyFkCiC4PQ3yapst8?p=info)
 
 ---
 ### md-dialog
@@ -122,6 +126,12 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-daialog example from material2 demo app](https://plnkr.co/edit/gp7XX0NDQ4j1XMCjzWQV?p=info)
 - [md-dialog passing data to dialog from component](https://plnkr.co/edit/a9RBS1?p=info)
 - [md-dialog passing data to component unconventional way](https://plnkr.co/edit/XsQaUtcliGQpm928iDrw?p=preview) - Collected
+
+
+---
+### md-expansion
+- [md-expansion data binding for expanded and store state in localstorage](https://plnkr.co/edit/1aB0jGht7RNP4zRKQlj9?p=info)
+
 
 ---
 ### md-grid-list
@@ -151,6 +161,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
 - [md-menu customize prebuild theme css](https://plnkr.co/edit/s91qeAlg3F3eexeFsjyK?p=preview)
 - [md-menu move panel to the right](https://plnkr.co/edit/jwt36RQiqnNMPl2lWScW?p=info)
+- [md-menu show image in option list and for selected option](https://plnkr.co/edit/uOjWi02nZAAbaW8YJonN?p=info)
 - [md-menu trigger menu open via code](https://plnkr.co/edit/2RsFsWINTJZncAeyfBXu?p=preview)
 - [md-menu using class property to change background color of menu](https://plnkr.co/edit/99buXlGj9PdhA3FsUCIx?p=info)
 
@@ -178,11 +189,17 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-sidenav
 
 - [md-sidenav change backdrop color](https://plnkr.co/edit/sCSNQj?p=info)
+- [md-sidenav drawer like bar icon only by default - full width on toggle](https://plnkr.co/edit/ONDk6R5feqqk7ygnUS3H?p=info)
 - [md-sidenav get backdropClick event](https://plnkr.co/edit/NfXCLN?p=info)
 - [md-sidenav pass sidenav reference to a another component to control toggle](https://plnkr.co/edit/iuq5LBayQOcOtiu3Riqo?p=info)
 - [md-sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
 - [md-sidenav work with md-menu](https://plnkr.co/edit/5enrfZHqxGaExhEEk3Fh?p=preview)
 
+
+---
+### md-slider
+
+- [md-slider change detection with (input)](https://plnkr.co/edit/1yiehVyBYio3wynHx9Ka?p=preview)
 ---
 ### md-slider-toggle
 
@@ -193,12 +210,14 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ### md-snackbar
 
+- [md-snackbar custom configuration example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=info)
 - [md-snackbar working example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=preview)
 
 ---
 ### md-table
 
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
+- [md-table highlight whole selected row](https://plnkr.co/edit/YXqTqcCgMOpbYTbAN02n?p=info)
 - [md-table pass data from promise return](https://plnkr.co/edit/ivvQqO5dXB92IXN8zOFv?p=preview)
 - [md-table pass data from API Stackoverflow doc example](https://plnkr.co/edit/gVN7D52iaRjAs1tIhvaA?p=preview)
 
