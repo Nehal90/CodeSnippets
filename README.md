@@ -210,7 +210,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ### md-snackbar
 
-- [md-snackbar custom configuration example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=info)
+- [md-snackbar custom configuration example](https://plnkr.co/edit/M6M8BBtET0kvkRNcLQ8Y?p=preview)
 - [md-snackbar working example](https://plnkr.co/edit/z5ky5iAUClpUUikgz7WX?p=preview)
 
 ---
