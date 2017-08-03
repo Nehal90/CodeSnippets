@@ -15,7 +15,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ## Angular 2 Data Binding:
 
-- [canDeactivate setup](https://plnkr.co/edit/UV69Fb1Yeco7bk6bwKaz?p=info)
+- [canDeactivate setup](https://plnkr.co/edit/WY57B7AD1rP6u0iUNefS?p=info)
 - [checkbox add remove from array on select deselect share array via service](https://plnkr.co/edit/Iib3XZeu27AqUFBFzRhW?p=info)
 - [checkbox select deselect all on click one checkbox share array via service](https://plnkr.co/edit/LJifj1KofV0TzCJaF5np?p=info)
 - [data access bind to json object property name with dash (-)](https://plnkr.co/edit/PGRKKYjaa1Z75xZ0eb6M?p=preview)
@@ -80,6 +80,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-autocomplete separate control and display](https://plnkr.co/edit/5wrr1YGxBzAFPj0sJgzT?p=info)
 - [md-autocomplete separate control and display 2](https://plnkr.co/edit/c5gBS1mpPrD9Hyonahyv?p=info)
 - [md-autocomplete set searchable data from API](https://plnkr.co/edit/aa2NNOHdKhB7n8iJcQbT?p=preview)
+- [md-autocomplete set searchable data from API Example 2](https://plnkr.co/edit/E0GFrUnczPjM2NTSttP3?p=info)
 - [md-autocomplete using same instance for multiple forms](https://plnkr.co/edit/PHJkJpkgOXLTEWpDI3eX?p=info)
 - [md-autocomplete using simple filter](https://plnkr.co/edit/gdbRkqlYP9vLHXMb8bUx?p=info) - Collected 
 
@@ -169,6 +170,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-paginator
 
 - [md-paginator get prev or next click event using (page) output property](https://plnkr.co/edit/8van3R9RLJ1pJPIaWm28?p=info)
+- [md-paginator increase index by 1 before sending to API](https://plnkr.co/edit/LJUfHtutdEby5qWw4kH2?p=info)
 
 ---
 ### md-radio
@@ -217,6 +219,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-table
 
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
+- [md-table get row index odd even and last flag](https://plnkr.co/edit/1t1OxeJnxRWx95mG90aH?p=info)
 - [md-table highlight whole selected row](https://plnkr.co/edit/YXqTqcCgMOpbYTbAN02n?p=info)
 - [md-table pass data from promise return](https://plnkr.co/edit/ivvQqO5dXB92IXN8zOFv?p=preview)
 - [md-table pass data from API Stackoverflow doc example](https://plnkr.co/edit/gVN7D52iaRjAs1tIhvaA?p=preview)
