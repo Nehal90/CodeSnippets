@@ -3,6 +3,7 @@
 I created this project to track code snippets I wrote for demo purposes while answering stack overflow questions.
 
 - [accordion manually coded using ngIf](https://plnkr.co/edit/m4dTsI3EmHuijPKPNfDz?p=preview)
+- [add a row after every third row](https://plnkr.co/edit/CUXb1ubGBNUW13KUAm2b) - Collected
 - [cascading multiselect](https://plnkr.co/edit/RVpUxXCxohPbL4Bh3Zdp?p=info)
 - [css allow only five checkbox in a row](https://plnkr.co/edit/YlWwQ6WpB78ywijWMGQ8?p=info)
 - [css line break after every two items for 100 items](https://plnkr.co/edit/tZisyfGx8h5St173RJGi?p=preview)
@@ -53,6 +54,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ---
 ## Angular 2 HTTP Service:
 
+- [http service accessing JSON data in template](https://plnkr.co/edit/QTVxFoO4EFlA5hsknjar?p=info)
 - [http service retrieve data from API](https://plnkr.co/edit/malbXKcARC6yImn9irl8?p=preview)
 - [http service show header information](https://plnkr.co/edit/MMly1tMo2ZOI2cIWqnit?p=preview)
 
@@ -72,13 +74,16 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [material full template with flex-layout example](https://plnkr.co/edit/a4iASMaZqQZNmuuQUapb?p=info)
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
-- [material template extended for demo datepicker autocomplete](https://plnkr.co/edit/mW2JgZ58n98tUe7LwNdX?p=info)
+- [material template extended for demo includes datepicker autocomplete](https://plnkr.co/edit/mW2JgZ58n98tUe7LwNdX?p=info)
+
+- [material beta.1 angular 2.4 form setup](https://plnkr.co/edit/PMIcSOT1rkgkPQ4LeWuP)
 
 ---
 ### md-autocomplete
 
 - [md-autocomplete bootstrap styled input field](https://plnkr.co/edit/wTmnP0kZmtibsEbrtfq0?p=info)
 - [md-autocomplete change option panel width](https://plnkr.co/edit/Em6KpPqGWJCWYSFVtprM?p=info)
+- [md-autocomplete get open or close state of options panel using showPanel](https://plnkr.co/edit/gCk2IfIz4zec56TgSo9x)
 - [md-autocomplete inside reactive form](https://plnkr.co/edit/Hle6PV?p=preview)
 - [md-autocomplete reduce each option row height](https://plnkr.co/edit/AX3kuK6HekrocFujors7?p=info)
 - [md-autocomplete separate control and display](https://plnkr.co/edit/5wrr1YGxBzAFPj0sJgzT?p=info)
@@ -98,6 +103,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-card
 
 - [md-card center horizontally and vertically in a page](https://plnkr.co/edit/29wR6WqS0L9Dkv4BKF7Y?p=info)
+- [md-card highlight each on select deselect](https://plnkr.co/edit/6mNDUf9AMQC0XVMO2euq?p=preview)
 - [md-card hover animation](https://plnkr.co/edit/7hgx0aoAIntWTSQhsyqI?p=preview)
 - [md-card show grouped items in separate cards](https://plnkr.co/edit/RYMFQCmf7kZiPEn8W2hH?p=info)
 
@@ -126,6 +132,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-datepicker passing selected date to function using $event](https://plnkr.co/edit/05yGj6Zbt4OYIfD3DcON?p=info)
 - [md-datepicker position to right side using flex layout](https://plnkr.co/edit/VwCnSuRcLDI2vDZXgRhB?p=info)
 - [md-datepicker set locale](https://plnkr.co/edit/tpwMyFkCiC4PQ3yapst8?p=info)
+- [md-datepicker set locale to 'fr' parse date format dd/mm/yyyy with custom NativeDateAdapter](https://plnkr.co/edit/M4jFuJVWHQsaYux79lWS)
 - [md-datepicker set locale to 'it' parse date format dd/mm/yyyy with custom NativeDateAdapter](https://plnkr.co/edit/esZS0XnQ2Yz1Cx3rCVOF?p=info)
 
 ---
@@ -166,11 +173,17 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-input show input on button click](https://plnkr.co/edit/ULjeKzSqCpftPSiRIaJH?p=preview)
 - [md-input using ngModelChange](https://plnkr.co/edit/SMAVc0weZ8wOhgct4DBb?p=info)
 
+
+---
+### md-list
+- [md-list format form with flex-layout center aligned](https://plnkr.co/edit/y9wpui1HZcKBN5Pexpib?p=preview)
 ---
 ### md-menu
 
-- [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
 - [md-menu customize prebuild theme css](https://plnkr.co/edit/s91qeAlg3F3eexeFsjyK?p=preview)
+- [md-menu close menu from component using MdMenuTrigger class](https://plnkr.co/edit/91aegVuAAnVucjd9c0ul)
+- [md-menu close menu from component using template reference](https://plnkr.co/edit/jP7UBrRgPDFGWFJaMreN)
+- [md-menu input validation](https://plnkr.co/edit/MXvrumvS5tfLW3okwFlL?p=info)
 - [md-menu move panel to the right](https://plnkr.co/edit/jwt36RQiqnNMPl2lWScW?p=info)
 - [md-menu show image in option list and for selected option](https://plnkr.co/edit/uOjWi02nZAAbaW8YJonN?p=info)
 - [md-menu stop click event propagation for menu item md-input-container](https://plnkr.co/edit/011ifsjbh2ekhvwYsrSo?p=info)
@@ -210,9 +223,12 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-sidenav change backdrop color](https://plnkr.co/edit/sCSNQj?p=info)
 - [md-sidenav close sidenav of item clicked in sidenav](https://plnkr.co/edit/wYaLD8Zho7zvtmCme7ms?p=info)
+- [md-sidenav close sidenav using router events obserable](https://plnkr.co/edit/j3wlDuvRa2c7zQuxPUGm)
 - [md-sidenav drawer like bar icon only by default - full width on toggle](https://plnkr.co/edit/ONDk6R5feqqk7ygnUS3H?p=info)
 - [md-sidenav get backdropClick event](https://plnkr.co/edit/NfXCLN?p=info)
 - [md-sidenav pass sidenav reference to a another component to control toggle](https://plnkr.co/edit/iuq5LBayQOcOtiu3Riqo?p=info)
+- [md-sidenav show and hide based on screen size using window:resize](https://plnkr.co/edit/SdBX5NOV1W5Nx0tbeXWq)
+- [md-sidenav show and hide using flex-layout media observable](https://plnkr.co/edit/vBGD6xvioCMRFToH5kL2)
 - [md-sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
 - [md-sidenav work with md-menu](https://plnkr.co/edit/5enrfZHqxGaExhEEk3Fh?p=preview)
 
@@ -239,8 +255,10 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-table add left border on selected row](https://plnkr.co/edit/EnPHAtqKFPAqiWVwLBqx?p=info)
 - [md-table get row index odd even and last flag](https://plnkr.co/edit/1t1OxeJnxRWx95mG90aH?p=info)
 - [md-table highlight whole selected row](https://plnkr.co/edit/YXqTqcCgMOpbYTbAN02n?p=info)
+- [md-table pass data from obserable return](https://plnkr.co/edit/SsAUIR02ZuagjQGVp1Eq)
 - [md-table pass data from promise return](https://plnkr.co/edit/ivvQqO5dXB92IXN8zOFv?p=preview)
 - [md-table pass data from API Stackoverflow doc example](https://plnkr.co/edit/gVN7D52iaRjAs1tIhvaA?p=preview)
+- [md-table show each row like md-card using css](https://plnkr.co/edit/CfDo12A7qkrqARQDWWx8)
 
 ---
 ### md-tabs
