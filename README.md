@@ -67,15 +67,15 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [input field allowing numbers and - only](https://plnkr.co/edit/j9fk99j9Kyq0LkrxHqPJ?p=info)
 - [input validation with ng-valid ng-pristine to show error only when typing for minlength 8](https://plnkr.co/edit/u65xlsBd4OhnrmcR3V6Y?p=preview)
 - [select option with confirmation revert to previous value on discard](https://plnkr.co/edit/xB92Mw?p=info)
----
 
+
+---
 ## Angular Material 2
 
 - [material full template with flex-layout example](https://plnkr.co/edit/a4iASMaZqQZNmuuQUapb?p=info)
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
 - [material template extended for demo includes datepicker autocomplete](https://plnkr.co/edit/mW2JgZ58n98tUe7LwNdX?p=info)
-
 - [material beta.1 angular 2.4 form setup](https://plnkr.co/edit/PMIcSOT1rkgkPQ4LeWuP)
 
 ---
