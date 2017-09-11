@@ -76,7 +76,9 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [material template for beginner using md-sidenav md-tabs md-toolbar and footer](https://plnkr.co/edit/EBSjqUIUka9koOCYoaU6?p=info)
 - [material template make only body div scrollable](https://plnkr.co/edit/1lUuji?p=info)
 - [material template extended for demo includes datepicker autocomplete](https://plnkr.co/edit/mW2JgZ58n98tUe7LwNdX?p=info)
+- [material beta.1 angular 2.4 customize radio button color](https://plnkr.co/edit/YBOfcn9qmvOf5GXqX8M7?p=info)
 - [material beta.1 angular 2.4 form setup](https://plnkr.co/edit/PMIcSOT1rkgkPQ4LeWuP)
+- [material beta.2 angular 2.4 customize radio button color](https://plnkr.co/edit/XAW6aXnRoJQnKMCL5wSU)
 
 ---
 ### md-autocomplete
@@ -85,6 +87,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-autocomplete change option panel width](https://plnkr.co/edit/Em6KpPqGWJCWYSFVtprM?p=info)
 - [md-autocomplete get open or close state of options panel using showPanel](https://plnkr.co/edit/gCk2IfIz4zec56TgSo9x)
 - [md-autocomplete inside reactive form](https://plnkr.co/edit/Hle6PV?p=preview)
+- [md-autocomplete make api call the retrieve dropdown data on click inside input field](https://plnkr.co/edit/84QmOfdfczQoYbLPD6N2)
 - [md-autocomplete reduce each option row height](https://plnkr.co/edit/AX3kuK6HekrocFujors7?p=info)
 - [md-autocomplete separate control and display](https://plnkr.co/edit/5wrr1YGxBzAFPj0sJgzT?p=info)
 - [md-autocomplete separate control and display 2](https://plnkr.co/edit/c5gBS1mpPrD9Hyonahyv?p=info)
@@ -98,6 +101,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 
 - [md-button add color to md-icon-button](https://plnkr.co/edit/rne0tm4q8FikAMY8r4le?p=info)
 - [md-button-toggle default selected button](https://plnkr.co/edit/MXGJlrv3n4SGCIvW8eoN?p=preview)
+- [md-button with md-snackbar using ngx-translate](https://plnkr.co/edit/EMe5TX1kxFrDVWc1ZJZy)
 
 ---
 ### md-card
@@ -214,6 +218,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-select multiselect](https://plnkr.co/edit/8HuIDnlFHTHe56HC4jby?p=preview)
 - [md-select md-radio revalidate form on option change](https://plnkr.co/edit/wsYASLW3nWaN3jknUTtk?p=preview)
 - [md-select no underline](https://plnkr.co/edit/B4HmhT?p=preview)
+- [md-select remove down caret after selection](https://plnkr.co/edit/p1Nl5XaDZYpXtzgffsRA)
 - [md-select reset form to invalid on selection change](https://plnkr.co/edit/wsYASLW3nWaN3jknUTtk?p=info)
 - [md-select set default value](https://plnkr.co/edit/rniE7BSRKDwEceatQffZ?p=preview)
 - [md-select set default value SO example](https://plnkr.co/edit/Ind0oyQOdiNkbW96m8ID?p=preview)
@@ -222,6 +227,8 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-sidenav
 
 - [md-sidenav change backdrop color](https://plnkr.co/edit/sCSNQj?p=info)
+- [md-sidenav remove backdrop using css and ::ng-deep](https://plnkr.co/edit/3Z9uEX)
+- [md-sidenav remove backdrop with css property diplay: none](https://plnkr.co/edit/JTqfPj)
 - [md-sidenav close sidenav of item clicked in sidenav](https://plnkr.co/edit/wYaLD8Zho7zvtmCme7ms?p=info)
 - [md-sidenav close sidenav using router events obserable](https://plnkr.co/edit/j3wlDuvRa2c7zQuxPUGm)
 - [md-sidenav drawer like bar icon only by default - full width on toggle](https://plnkr.co/edit/ONDk6R5feqqk7ygnUS3H?p=info)
@@ -230,12 +237,15 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-sidenav show and hide based on screen size using window:resize](https://plnkr.co/edit/SdBX5NOV1W5Nx0tbeXWq)
 - [md-sidenav show and hide using flex-layout media observable](https://plnkr.co/edit/vBGD6xvioCMRFToH5kL2)
 - [md-sidenav staic md-toolbar on top](https://plnkr.co/edit/XiRo7lpy1coqcH4deynJ?p=preview)
+- [md-sidenav md-toggle show and hide based on screen size](https://plnkr.co/edit/QWPeqyj6ikSZOMuPM8Lq)
 - [md-sidenav work with md-menu](https://plnkr.co/edit/5enrfZHqxGaExhEEk3Fh?p=preview)
 
 ---
 ### md-slider
 
 - [md-slider change detection with (input)](https://plnkr.co/edit/1yiehVyBYio3wynHx9Ka?p=preview)
+- [md-slider pass new value to component](https://plnkr.co/edit/depkkZKuNlMULUC9PmF0)
+
 ---
 ### md-slider-toggle
 
@@ -256,14 +266,17 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [md-table get row index odd even and last flag](https://plnkr.co/edit/1t1OxeJnxRWx95mG90aH?p=info)
 - [md-table highlight whole selected row](https://plnkr.co/edit/YXqTqcCgMOpbYTbAN02n?p=info)
 - [md-table pass data from obserable return](https://plnkr.co/edit/SsAUIR02ZuagjQGVp1Eq)
+- [md-table pass data from obserable return SO example](https://plnkr.co/edit/6Qer4gLCVZryZXvqGUCN)
 - [md-table pass data from promise return](https://plnkr.co/edit/ivvQqO5dXB92IXN8zOFv?p=preview)
 - [md-table pass data from API Stackoverflow doc example](https://plnkr.co/edit/gVN7D52iaRjAs1tIhvaA?p=preview)
 - [md-table show each row like md-card using css](https://plnkr.co/edit/CfDo12A7qkrqARQDWWx8)
+- [md-table with Observable API data display on seach only](https://plnkr.co/edit/mkQ2Qx8qLVO2uHJdmulb)
 
 ---
 ### md-tabs
 
 - [md-tabs child tabs nested within parent tab](https://plnkr.co/edit/k5vPuvUCO123Gu1iEr7T?p=preview) - Collected 
+- [md-tabs change tabs using button from the body content](https://plnkr.co/edit/TGuPmY9jhRIrAtHZyMv0)
 - [md-tabs disable click on tab and move tabs via buttons](https://plnkr.co/edit/spMcC1wwEkSXmS4xrFio?p=info) - Collected
 - [md-tabs hide tab header buttons using css](https://plnkr.co/edit/NvbKdIPzTWA4Q7JMx5O2?p=info)
 - [md-tabs reducing width of tabs](https://plnkr.co/edit/WiQPQX96FNckPkto4bK8?p=info)
@@ -276,6 +289,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 ### md-tooltip
 
 - [md-tooltip always show tooltip](https://plnkr.co/edit/JP0mCkCCAdbayf7B7cT9?p=info)
+- [md-tooltip custom class using MdTooltipClass](https://plnkr.co/edit/T7oZiZE605fpdOsSiPnz)
 - [md-tooltip disable tooltip for xs screen size using flex-layout](https://plnkr.co/edit/xwtwIJG1BYOhRuw8d63r?p=info)
 - [md-tooltip fit multiple lines withing](https://plnkr.co/edit/BSOnK9TcbouRyq3TKD23?p=preview)
 - [md-tooltip set mdTooltipShowDelay globally using shared service](https://plnkr.co/edit/v0pg8Nu4Rq5Dy5YXOSOQ?p=info)
@@ -307,6 +321,9 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [pButton with font-awesome](https://plnkr.co/edit/uXuMNeZyDOhSH5RIw5zH?p=preview)
 - [p-calenar formControl validation for user input date](https://plnkr.co/edit/DcMUCWQ9u4a3yekrNbO9)
 - [p-calendar date range from control validation](https://plnkr.co/edit/X0cmeJjqd80J0fGrXFTR?p=info)
+- [p-calendar with reactive form](https://plnkr.co/edit/6sfLApVpu6vojoiGVGVf)
+- [p-checkbox](https://plnkr.co/edit/A02otPj4OKCjl0X9qGAO)
 - [p-multiSelect example](https://plnkr.co/edit/JIc2EkDz9HgymGQElHZ1?p=preview)
+- [p-multiselect use object as value](https://plnkr.co/edit/bgdiVvNG94AthFtX8bSn)
 
 ** Collected snippet are provided by Stack Overflow Users
