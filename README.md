@@ -14,6 +14,11 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [setTimeout active button after 2 seconds of page load](https://plnkr.co/edit/WBkHTStRTxtDLFCIAEzV?p=preview)
 
 ---
+
+## Angular 2 Google Maps:
+
+- [Display Google Street View Image In Angular Webapp](https://embed.plnkr.co/1dkesNo31TQ3QrZKMCem/)
+
 ## Angular 2 Data Binding:
 
 - [canDeactivate setup](https://plnkr.co/edit/WY57B7AD1rP6u0iUNefS?p=info)
