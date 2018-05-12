@@ -43,7 +43,7 @@ I created this project to track code snippets I wrote for demo purposes while an
 - [global variable - set/get via shared services](https://plnkr.co/edit/juF6ICGAqPbXkEHkBuFW?p=info)
 - [parent-child data share via binding and service](https://plnkr.co/edit/RwNbVAuYpg90Wyazutei?p=info)
 - [parent-child data share via Promise](https://plnkr.co/edit/vocFx7eoxtE10AvgiwLG?p=preview)
-- [Rxjs BehaviorSubject and Observable to share data with child component](https://plnkr.co/edit/4j3jsfU7lnqFRLe9oWwM?p=info)
+- [Rxjs BehaviorSubject and Observable to share data with child component](https://stackoverflow.com/a/45486160/5556177)
 - [Rxjs Subject and Observable to share data with child component](https://plnkr.co/edit/JncNuE63jwQsYgImK2ba?p=info)
 - [Shared service between components](https://plnkr.co/edit/7xF6qVLXNT2pGrFz1Clf?p=info)
 
